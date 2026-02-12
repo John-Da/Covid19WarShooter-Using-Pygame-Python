@@ -86,7 +86,7 @@ Health recovery items occasionally appear in the game. When collected, they rest
 pip install pygame
 
 # Run
-python covid19War.py
+python covidWarRemaster.py
 ```
 
 ## Future Improvements
