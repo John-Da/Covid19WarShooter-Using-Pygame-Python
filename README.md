@@ -7,6 +7,8 @@
 **Covid19 War** is a retro-style arcade shooter developed in **Python** using the **Pygame** library.  
 The game challenges players to survive against continuously spawning waves of enemies while collecting recovery points to maintain health. Gameplay focuses on fast movement, continuous shooting, and increasing difficulty through a progressive wave system.
 
+https://github.com/user-attachments/assets/3c443c8b-f644-4fb1-9d52-cccff83bb661
+
 ---
 
 <!-- ## Gameplay Preview -->
